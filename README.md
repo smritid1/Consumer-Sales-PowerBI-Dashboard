@@ -1,4 +1,4 @@
-# Consumer-Sales-PowerBI-Dashboard
+# Consumer-Sales-PowerBI-Dashboard with Sales Forecating
 
 
 This repository contains a comprehensive analysis of sales and profit data visualized using Power BI. Below are the key insights and metrics derived from the data.
