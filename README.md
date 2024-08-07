@@ -1,6 +1,5 @@
 # Consumer-Sales-PowerBI-Dashboard
 
-# Sales and Profit Analysis Report
 
 This repository contains a comprehensive analysis of sales and profit data visualized using Power BI. Below are the key insights and metrics derived from the data.
 
@@ -95,4 +94,4 @@ The geographic distribution of sales and profit
 
 
 
-&copy
+&copy;
